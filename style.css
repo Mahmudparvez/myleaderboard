@@ -1,0 +1,70 @@
+body{
+    background-color:aliceblue ; 
+    color: 562eff !important;
+    
+}
+main{
+    max-width: 870px;
+    margin-top: 20px;
+    box-shadow: 5px 2px black ;
+    border-radius: 10px;
+    color: 562eff !important;
+    background-color:aliceblue ; 
+}
+.top-player{
+    max-width:970px;
+}
+
+ h3{
+    color:rgb(122, 6, 230) !important;
+}
+
+.navbar img{
+    width: 40px;
+   
+}
+.blogs img{
+    width: 177px !important;
+    height: 117px !important;
+}
+.blogs p{
+    position: absolute;
+    width: 107px;
+    height: 24px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #7909f8;
+    text-align: left;
+
+}
+.courses{
+    margin-top:20px;
+    
+}
+.courses p{
+    position: absolute;
+    width: 107px;
+    height: 24px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #7909f8;
+    text-align: left;
+
+}
+.courses img{
+    width: 177px !important;
+    height: 117px !important;
+}
+.player img{
+    width: 56px;
+}
